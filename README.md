@@ -17,7 +17,7 @@ This repository contains tools and scripts for creating annotated datasets from 
 
 ### Installation
 ```bash
-git clone https://github.com/2vhoc/2vhoc-build-dataset-from-video
+git clone https://github.com/2vhoc/build-dataset-from-video
 pip install -r requirements.txt
 ```
 
@@ -82,7 +82,7 @@ Repository này chứa các công cụ và script để tạo bộ dữ liệu c
 
 ### Cài đặt
 ```bash
-git clone https://github.com/2vhoc/2vhoc-build-dataset-from-video
+git clone https://github.com/2vhoc/build-dataset-from-video
 pip install -r requirements.txt
 ```
 
