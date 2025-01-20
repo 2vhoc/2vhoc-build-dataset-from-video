@@ -1,4 +1,4 @@
-# Video Dataset Creation Tool / Công cụ Tạo Dataset từ Video
+# Video Dataset Creation / Tạo Dataset từ Video
 
 [English](#english) | [Tiếng Việt](#tiếng-việt)
 
