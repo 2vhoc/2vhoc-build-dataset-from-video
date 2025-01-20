@@ -8,7 +8,7 @@
 This repository contains tools and scripts for creating annotated datasets from video sources. It helps you extract frames from videos and create corresponding annotations for computer vision tasks.
 
 ### Demo
-![Visualization Example](https://github.com/2vhoc/2vhoc-build-dataset-from-video/raw/main/Match_1951_1_0_subclip-20250106T145050Z-001/Chụp%20màn%20hình%20từ%202025-01-20%2016-20-28.png)
+![Visualization Example](https://github.com/2vhoc/build-dataset-from-video/raw/main/Match_1951_1_0_subclip-20250106T145050Z-001/Chụp%20màn%20hình%20từ%202025-01-20%2016-20-28.png)
 *Example of object detection visualization with bounding boxes*
 
 ### Features
@@ -72,7 +72,7 @@ video-dataset-tools/
 Repository này chứa các công cụ và script để tạo bộ dữ liệu có chú thích từ nguồn video. Nó giúp bạn trích xuất các khung hình từ video và tạo các chú thích tương ứng cho các tác vụ thị giác máy tính.
 
 ### Demo
-![Ví dụ trực quan hóa](https://github.com/2vhoc/2vhoc-build-dataset-from-video/raw/main/Match_1951_1_0_subclip-20250106T145050Z-001/Chụp%20màn%20hình%20từ%202025-01-20%2016-20-28.png)
+![Ví dụ trực quan hóa](https://github.com/2vhoc/build-dataset-from-video/raw/main/Match_1951_1_0_subclip-20250106T145050Z-001/Chụp%20màn%20hình%20từ%202025-01-20%2016-20-28.png)
 *Ví dụ về trực quan hóa phát hiện đối tượng với bounding box*
 
 
