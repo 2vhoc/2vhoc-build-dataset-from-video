@@ -46,8 +46,9 @@ video-dataset-tools/
 │   │   ├── images
 │   │   └── labels
 │   ├── val # run code to create folder
-│   │   ├── images
-│   │   └── labels
+│       ├── images
+│       └── labels
+│
 ├── extract_labels.py
 ├── requirements.txt  
 ├── video_to_frame.py   
@@ -110,8 +111,9 @@ video-dataset-tools/
 │   │   ├── images
 │   │   └── labels
 │   ├── val # run code to create folder
-│   │   ├── images
-│   │   └── labels
+│       ├── images
+│       └── labels
+│
 ├── extract_labels.py
 ├── requirements.txt  
 ├── video_to_frame.py   
