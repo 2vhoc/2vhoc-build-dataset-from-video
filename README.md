@@ -7,9 +7,12 @@
 ### Introduction
 This repository contains tools and scripts for creating annotated datasets from video sources. It helps you extract frames from videos and create corresponding annotations for computer vision tasks.
 
+### Demo
+![Visualization Example](https://github.com/2vhoc/2vhoc-build-dataset-from-video/raw/main/Match_1951_1_0_subclip-20250106T145050Z-001/Chụp%20màn%20hình%20từ%202025-01-20%2016-20-28.png)
+*Example of object detection visualization with bounding boxes*
+
 ### Features
 - Extract frames from video at specified intervals
-- Generate annotation files in multiple formats (YOLO, COCO, Pascal VOC)
 - Use as training data for YOLOv5 models
 
 ### Installation
@@ -67,9 +70,13 @@ video-dataset-tools/
 ### Giới thiệu
 Repository này chứa các công cụ và script để tạo bộ dữ liệu có chú thích từ nguồn video. Nó giúp bạn trích xuất các khung hình từ video và tạo các chú thích tương ứng cho các tác vụ thị giác máy tính.
 
+### Demo
+![Ví dụ trực quan hóa](https://github.com/2vhoc/2vhoc-build-dataset-from-video/raw/main/Match_1951_1_0_subclip-20250106T145050Z-001/Chụp%20màn%20hình%20từ%202025-01-20%2016-20-28.png)
+*Ví dụ về trực quan hóa phát hiện đối tượng với bounding box*
+
+
 ### Tính năng
 - Trích xuất khung hình từ video theo khoảng thời gian xác định
-- Tạo file chú thích ở nhiều định dạng (YOLO, COCO, Pascal VOC)
 - Dùng làm data cho mô hình yolov5
 
 ### Cài đặt
